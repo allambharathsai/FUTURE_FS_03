@@ -104,82 +104,58 @@ This website solves these challenges by creating a digital platform that improve
 
 ### 🏠 Home Page
 
-```text
-screenshots/home.png
-```
+![Home Page](screenshots/home.png)
 
-Modern hero section showcasing restaurant branding and user engagement.
+*Modern landing page showcasing restaurant branding, promotions, and customer engagement.*
 
 ---
 
 ### 🍽️ Menu Section
 
-```text
-screenshots/menu.png
-```
+![Menu Section](screenshots/menu.png)
 
-Displays restaurant food items and pricing details.
+*Displays a variety of food items, categories, and pricing information.*
 
 ---
 
 ### ⭐ Featured Dishes
 
-```text
-screenshots/specials.png
-```
+![Featured Dishes](screenshots/specials.png)
 
-Highlights customer favorites and signature dishes.
+*Highlights the restaurant's most popular and signature dishes.*
 
 ---
 
 ### 🖼️ Gallery
 
-```text
-screenshots/gallery.png
-```
+![Gallery](screenshots/gallery.png)
 
-Showcases food images and restaurant atmosphere.
+*Showcases food photography and the restaurant's ambience.*
 
 ---
 
 ### 📞 Contact & Reservation
 
-```text
-screenshots/contact.png
-```
+![Contact](screenshots/contact.png)
 
-Provides reservation form and contact information.
+*Provides reservation options, contact details, and customer inquiry support.*
 
 ---
 
 ## 📂 Project Structure
 
+
+
 ```text
 FUTURE_FS_03
 │
 ├── index.html
-│
-├── css
-│   └── style.css
-│
-├── js
-│   └── script.js
-│
-├── assets
-│   └── food
-│       ├── chicken65.png
-│       ├── chickenbiryani.png
-│       ├── coldcoffee.png
-│       ├── crispycorn.png
-│       ├── gobimanchurian.png
-│       ├── gulabjamun.png
-│       ├── mangolassi.png
-│       ├── pooricurry.png
-│       ├── ricekheer.png
-│       ├── vegfriedrice.png
-│       └── venillaicecream.png
-│
-└── README.md
+├── README.md
+├── css/
+├── js/
+├── assets/
+│   └── food/
+└── screenshots/
 ```
 
 ---
@@ -262,68 +238,59 @@ This project enhanced my understanding of how websites can help local businesses
 
 ---
 
-## 📌 Internship Details
+## 🏢 Internship Information
 
-### Internship Program
-Future Interns – Full Stack Web Development Internship
-
-### Task
-Task 3 – Build, Pitch & Monetize a Real Local Business Website
-
-### Project Title
-ALLAM'S FAMILY RESTAURANT
-
-### Year
-2026
-
----
+| Field | Details |
+| --- | --- |
+| Organization | Future Interns |
+| Track | Full Stack Web Development |
+| Task Number | Task 3 |
+| Project | ALLAM'S FAMILY RESTAURANT |
+| Repository | FUTURE_FS_03 |
 
 ## 👨‍💻 Developer
 
-# ALLAM BHARATH SAI
+**ALLAM BHARATH SAI**
 
-### B.Tech Computer Science & Engineering
+B.Tech Computer Science and Engineering
 
-Passionate about:
+Passionate about Full Stack Development, Web Technologies, Software Engineering, UI/UX Design, Problem Solving, and building real-world applications.
 
-- Full Stack Development
-- Web Technologies
-- UI/UX Design
-- Software Engineering
-- Problem Solving
-- Real-World Application Development
-
----
-
-## 🧠 Skills Demonstrated
+### Technical Skills
 
 - HTML5
 - CSS3
 - JavaScript
 - Bootstrap 5
-- Responsive Design
+- Responsive Web Design
+- UI/UX Design
 - Git & GitHub
-- UI/UX Principles
-- Frontend Development
 
----
+### Professional Summary
 
-## 🌐 Connect With Me
+I developed **ALLAM'S FAMILY RESTAURANT** as part of the **Future Interns Full Stack Web Development Internship**.
 
-### GitHub
+This project provided practical experience in designing and developing a professional restaurant website for a real-world local business. The website was created to strengthen the restaurant's online presence, showcase menu offerings, provide reservation facilities, and improve customer engagement through a modern and responsive user interface.
 
-[GitHub Profile](https://github.com/allambharathsai)
+Through this project, I strengthened my skills in:
 
-### LinkedIn
+- Frontend Web Development
+- Responsive Website Design
+- Bootstrap Framework
+- JavaScript Interactivity
+- UI/UX Design Principles
+- Business Website Development
+- Website Optimization
+- Git & GitHub Version Control
 
-[LinkedIn Profile](https://www.linkedin.com/in/allambharathsai/)
+One of the most valuable lessons from this project was understanding how a professional website can help local businesses improve visibility, attract customers, build credibility, and enhance overall customer experience in the digital world.
 
----
+### Connect With Me
 
-## ⭐ Acknowledgement
+[![GitHub](https://img.shields.io/badge/GitHub-allambharathsai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allambharathsai)
 
-This project was developed as part of the **Future Interns Full Stack Web Development Internship Program** and demonstrates the practical application of modern frontend development concepts to create a professional business website.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Allam%20Bharath%20Sai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allambharathsai/)
 
----
+## 📄 License
 
-# ⭐ If you like this project, don't forget to Star the Repository!
+This project is created for internship and educational purposes.
