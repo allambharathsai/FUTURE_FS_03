@@ -1,6 +1,4 @@
-# 🍽️ ALLAM'S FAMILY RESTAURANT
-
-### Task 3: Build, Pitch & Monetize a Real Local Business Website
+# Real Local Business Website
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
