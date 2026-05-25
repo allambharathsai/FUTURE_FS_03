@@ -13,15 +13,13 @@
 ## 🚀 Live Demo
 
 🔗 **Website Link:**  
-[View ALLAM'S FAMILY RESTAURANT Live Demo](https://allambharathsai.github.io/FUTURE_FS_03/)
+[View ALLAM'S FAMILY RESTAURANT Live Demo](https://allambharathsai.github.io/Real_Local_Business_Website/)
 
 ---
 
 ## 📖 Project Overview
 
-**ALLAM'S FAMILY RESTAURANT** is a modern and fully responsive restaurant website developed as part of the **Future Interns Full Stack Web Development Internship (Task 3)**.
-
-The website provides customers with a professional online experience by showcasing restaurant services, menu offerings, featured dishes, gallery images, reservation facilities, and contact information.
+**ALLAM'S FAMILY RESTAURANT** is a modern and fully responsive restaurant website it provides customers with a professional online experience by showcasing restaurant services, menu offerings, featured dishes, gallery images, reservation facilities, and contact information.
 
 This project focuses on frontend web development, responsive design, UI/UX principles, and business-oriented website solutions.
 
@@ -151,7 +149,7 @@ This website solves these challenges by creating a digital platform that improve
 
 
 ```text
-FUTURE_FS_03
+Real_Local_Business_Website
 │
 ├── index.html
 ├── README.md
@@ -169,13 +167,13 @@ FUTURE_FS_03
 ### Clone Repository
 
 ```bash
-git clone https://github.com/allambharathsai/FUTURE_FS_03.git
+git clone https://github.com/allambharathsai/Real_Local_Business_Website.git
 ```
 
 ### Navigate to Project Folder
 
 ```bash
-cd FUTURE_FS_03
+cd Real_Local_Business_Website
 ```
 
 ### Run the Website
@@ -242,16 +240,6 @@ This project enhanced my understanding of how websites can help local businesses
 
 ---
 
-## 🏢 Internship Information
-
-| Field | Details |
-| --- | --- |
-| Organization | Future Interns |
-| Track | Full Stack Web Development |
-| Task Number | Task 3 |
-| Project | ALLAM'S FAMILY RESTAURANT |
-| Repository | FUTURE_FS_03 |
-
 ## 👨‍💻 Developer
 
 **ALLAM BHARATH SAI**
@@ -272,7 +260,7 @@ Passionate about Full Stack Development, Web Technologies, Software Engineering,
 
 ### Professional Summary
 
-I developed **ALLAM'S FAMILY RESTAURANT** as part of the **Future Interns Full Stack Web Development Internship**.
+I developed **ALLAM'S FAMILY RESTAURANT** 
 
 This project provided practical experience in designing and developing a professional restaurant website for a real-world local business. The website was created to strengthen the restaurant's online presence, showcase menu offerings, provide reservation facilities, and improve customer engagement through a modern and responsive user interface.
 
@@ -295,6 +283,5 @@ One of the most valuable lessons from this project was understanding how a profe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Allam%20Bharath%20Sai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allambharathsai/)
 
-## 📄 License
-
-This project is created for internship and educational purposes.
+---
+© 2026 ALLAM BHARATH SAI. All Rights Reserved.
